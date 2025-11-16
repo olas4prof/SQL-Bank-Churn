@@ -9,4 +9,4 @@ https://github.com/olas4prof/SQL-Bank-Churn/blob/main/BankChurners.xlsx
 * How does age affect Credit Limit?      https://github.com/olas4prof/SQL-Bank-Churn/blob/main/sql_scripts/age_vs_credit_limit.sql
 * How does gender influence the likelihood of customer attrition?    https://github.com/olas4prof/SQL-Bank-Churn/blob/main/sql_scripts/gender_vs_attrition.sql
 * How does marital status affect the average open-to-buy credit line?  https://github.com/olas4prof/SQL-Bank-Churn/blob/main/sql_scripts/marital_status_vs_open_to_buy.sql
-* What impact does the number of dependents have on the total transaction amount?   
+* What impact does the number of dependents have on the total transaction amount?   https://github.com/olas4prof/SQL-Bank-Churn/blob/main/sql_scripts/dependents_vs_transaction.sql
