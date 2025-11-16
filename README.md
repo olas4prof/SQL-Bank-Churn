@@ -8,5 +8,5 @@ https://github.com/olas4prof/SQL-Bank-Churn/blob/main/BankChurners.xlsx
 # My analytical questions
 * How does age affect Credit Limit?
 * How does gender influence the likelihood of customer attrition?
-* How does gender influence the likelihood of customer attrition?
 * How does marital status affect the average open-to-buy credit line?
+* 
